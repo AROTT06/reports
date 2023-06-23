@@ -7,7 +7,8 @@
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 840.0929781,
     "Exchange Status": "finished",
-    "Created At (UTC)": "2023-06-23 04:14:53.652"
+    "Created At (UTC)": "2023-06-23 04:14:53.652",
+    "lucky_number": 1
   },
   {
     "From Currency": "hbar",
@@ -17,7 +18,8 @@
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 560.0552404,
     "Exchange Status": "finished",
-    "Created At (UTC)": "2023-06-23 04:08:33.456"
+    "Created At (UTC)": "2023-06-23 04:08:33.456",
+    "lucky_number": 2
   },
   {
     "From Currency": "hbar",
@@ -26,7 +28,8 @@
     "Expected Received Amount": 0.0284989,
     "Received Deposit Amount": 1100,
     "Received Exchange Amount": 0.0285067,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 3
   },
   {
     "From Currency": "eth",
@@ -35,7 +38,8 @@
     "Expected Received Amount": 2134.0708332,
     "Received Deposit Amount": 0.05854986,
     "Received Exchange Amount": 2120.49211903,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 4
   },
   {
     "From Currency": "hbar",
@@ -44,7 +48,8 @@
     "Expected Received Amount": 60.586245,
     "Received Deposit Amount": 1300,
     "Received Exchange Amount": 60.595991,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 5
   },
   {
     "From Currency": "hbar",
@@ -53,7 +58,8 @@
     "Expected Received Amount": 5.6845376,
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 5.68454325,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 6
   },
   {
     "From Currency": "usdc",
@@ -62,7 +68,8 @@
     "Expected Received Amount": 882.3747586,
     "Received Deposit Amount": 50,
     "Received Exchange Amount": 887.06194892,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 7
   },
   {
     "From Currency": "hbar",
@@ -71,7 +78,8 @@
     "Expected Received Amount": 77.674385,
     "Received Deposit Amount": 1580,
     "Received Exchange Amount": 77.611518,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 8
   },
   {
     "From Currency": "hbar",
@@ -80,7 +88,8 @@
     "Expected Received Amount": 740.0077159,
     "Received Deposit Amount": 1300,
     "Received Exchange Amount": 740.0079746,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 9
   },
   {
     "From Currency": "eth",
@@ -89,7 +98,8 @@
     "Expected Received Amount": 1188.6665323,
     "Received Deposit Amount": 0.03267625,
     "Received Exchange Amount": 1173.57609165,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 10
   },
   {
     "From Currency": "hbar",
@@ -98,7 +108,8 @@
     "Expected Received Amount": 0.025822,
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 0.0258186,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 11
   },
   {
     "From Currency": "hbar",
@@ -107,7 +118,8 @@
     "Expected Received Amount": 46.938128,
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 47.323755,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 12
   },
   {
     "From Currency": "hbar",
@@ -116,7 +128,8 @@
     "Expected Received Amount": 560.1473446,
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 560.1471989,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 13
   },
   {
     "From Currency": "hbar",
@@ -125,7 +138,8 @@
     "Expected Received Amount": 597.410171,
     "Received Deposit Amount": 1050,
     "Received Exchange Amount": 600.0873781,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 14
   },
   {
     "From Currency": "hbar",
@@ -134,7 +148,8 @@
     "Expected Received Amount": 597.4102607,
     "Received Deposit Amount": 1050,
     "Received Exchange Amount": 596.5643417,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 15
   },
   {
     "From Currency": "hbar",
@@ -143,7 +158,8 @@
     "Expected Received Amount": 0.003632,
     "Received Deposit Amount": 2184,
     "Received Exchange Amount": 0.0035106,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 16
   },
   {
     "From Currency": "hbar",
@@ -152,7 +168,8 @@
     "Expected Received Amount": 0.003632,
     "Received Deposit Amount": 2184,
     "Received Exchange Amount": 0.00361067,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 17
   },
   {
     "From Currency": "hbar",
@@ -161,7 +178,8 @@
     "Expected Received Amount": 554.033283,
     "Received Deposit Amount": 11477,
     "Received Exchange Amount": 553.946388,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 18
   },
   {
     "From Currency": "hbar",
@@ -170,7 +188,8 @@
     "Expected Received Amount": 160.125058,
     "Received Deposit Amount": 3360,
     "Received Exchange Amount": 160.151396,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 19
   },
   {
     "From Currency": "hbar",
@@ -179,7 +198,8 @@
     "Expected Received Amount": 60.994631,
     "Received Deposit Amount": 1300,
     "Received Exchange Amount": 61.037629,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 20
   },
   {
     "From Currency": "usdc",
@@ -188,7 +208,8 @@
     "Expected Received Amount": 11057.9609536,
     "Received Deposit Amount": 567.963461,
     "Received Exchange Amount": 11050.15775773,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 21
   },
   {
     "From Currency": "hbar",
@@ -197,7 +218,8 @@
     "Expected Received Amount": 946.2869542,
     "Received Deposit Amount": 1620,
     "Received Exchange Amount": 946.2868405,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 22
   },
   {
     "From Currency": "hbar",
@@ -206,7 +228,8 @@
     "Expected Received Amount": 0.0016809,
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 0.001681,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 23
   },
   {
     "From Currency": "hbar",
@@ -215,7 +238,8 @@
     "Expected Received Amount": 692.1549187,
     "Received Deposit Amount": 1200,
     "Received Exchange Amount": 692.154794,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 24
   },
   {
     "From Currency": "hbar",
@@ -224,7 +248,8 @@
     "Expected Received Amount": 0.0302963,
     "Received Deposit Amount": 1150,
     "Received Exchange Amount": 0.03034721,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 25
   },
   {
     "From Currency": "hbar",
@@ -233,7 +258,8 @@
     "Expected Received Amount": 382.703965,
     "Received Deposit Amount": 8147,
     "Received Exchange Amount": 381.855143,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 26
   },
   {
     "From Currency": "hbar",
@@ -242,7 +268,8 @@
     "Expected Received Amount": 0.0514304,
     "Received Deposit Amount": 2000,
     "Received Exchange Amount": 0.05143216,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 27
   },
   {
     "From Currency": "hbar",
@@ -251,7 +278,8 @@
     "Expected Received Amount": 779.9870828,
     "Received Deposit Amount": 1400,
     "Received Exchange Amount": 779.2017053,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 28
   },
   {
     "From Currency": "hbar",
@@ -260,7 +288,8 @@
     "Expected Received Amount": 200.602797,
     "Received Deposit Amount": 4800,
     "Received Exchange Amount": 200.836646,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 29
   },
   {
     "From Currency": "hbar",
@@ -269,7 +298,8 @@
     "Expected Received Amount": 700.0515194,
     "Received Deposit Amount": 1300,
     "Received Exchange Amount": 706.5682838,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 30
   },
   {
     "From Currency": "hbar",
@@ -278,7 +308,8 @@
     "Expected Received Amount": 832.5597446,
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 837.4211834,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 31
   },
   {
     "From Currency": "hbar",
@@ -287,7 +318,8 @@
     "Expected Received Amount": 0.0024767,
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 0.00247673,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 32
   },
   {
     "From Currency": "hbar",
@@ -296,7 +328,8 @@
     "Expected Received Amount": 653.0750368,
     "Received Deposit Amount": 1200,
     "Received Exchange Amount": 653.0751348,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 33
   },
   {
     "From Currency": "hbar",
@@ -305,7 +338,8 @@
     "Expected Received Amount": 54.502374,
     "Received Deposit Amount": 1300,
     "Received Exchange Amount": 54.58603,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 34
   },
   {
     "From Currency": "hbar",
@@ -314,7 +348,8 @@
     "Expected Received Amount": 645.627603,
     "Received Deposit Amount": 1150,
     "Received Exchange Amount": 645.6372844,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 35
   },
   {
     "From Currency": "hbar",
@@ -323,7 +358,8 @@
     "Expected Received Amount": 95.43277,
     "Received Deposit Amount": 2176,
     "Received Exchange Amount": 95.97757893,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 36
   },
   {
     "From Currency": "hbar",
@@ -332,7 +368,8 @@
     "Expected Received Amount": 212.0474296,
     "Received Deposit Amount": 4700,
     "Received Exchange Amount": 212.30301766,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 37
   },
   {
     "From Currency": "hbar",
@@ -341,7 +378,8 @@
     "Expected Received Amount": 630.2370535,
     "Received Deposit Amount": 14000,
     "Received Exchange Amount": 632.76501629,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 38
   },
   {
     "From Currency": "hbar",
@@ -350,7 +388,8 @@
     "Expected Received Amount": 0.0018404,
     "Received Deposit Amount": 1099,
     "Received Exchange Amount": 0.00184048,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 39
   },
   {
     "From Currency": "hbar",
@@ -359,7 +398,8 @@
     "Expected Received Amount": 1472.8740948,
     "Received Deposit Amount": 33000,
     "Received Exchange Amount": 1473.46713605,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 40
   },
   {
     "From Currency": "usdcalgo",
@@ -368,7 +408,8 @@
     "Expected Received Amount": 1064.3205782,
     "Received Deposit Amount": 51,
     "Received Exchange Amount": 1073.11049924,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 41
   },
   {
     "From Currency": "hbar",
@@ -377,7 +418,8 @@
     "Expected Received Amount": 0.0250878,
     "Received Deposit Amount": 1000,
     "Received Exchange Amount": 0.02508864,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 42
   },
   {
     "From Currency": "hbar",
@@ -386,7 +428,8 @@
     "Expected Received Amount": 36.0480024,
     "Received Deposit Amount": 4275,
     "Received Exchange Amount": 36.06089931,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 43
   },
   {
     "From Currency": "hbar",
@@ -395,7 +438,8 @@
     "Expected Received Amount": 50.00845,
     "Received Deposit Amount": 1230,
     "Received Exchange Amount": 50.143505,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 44
   },
   {
     "From Currency": "hbar",
@@ -404,7 +448,8 @@
     "Expected Received Amount": 52.39756,
     "Received Deposit Amount": 1200,
     "Received Exchange Amount": 52.45623,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 45
   },
   {
     "From Currency": "hbar",
@@ -413,7 +458,8 @@
     "Expected Received Amount": 233.312153,
     "Received Deposit Amount": 5400,
     "Received Exchange Amount": 233.304479,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 46
   },
   {
     "From Currency": "hbar",
@@ -422,7 +468,8 @@
     "Expected Received Amount": 61.763106,
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 61.716552,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 47
   },
   {
     "From Currency": "hbar",
@@ -431,7 +478,8 @@
     "Expected Received Amount": 61.763102,
     "Received Deposit Amount": 1500,
     "Received Exchange Amount": 61.758464,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 48
   },
   {
     "From Currency": "hbar",
@@ -440,7 +488,8 @@
     "Expected Received Amount": 49.867313,
     "Received Deposit Amount": 1200,
     "Received Exchange Amount": 49.548728,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 49
   },
   {
     "From Currency": "hbar",
@@ -449,6 +498,7 @@
     "Expected Received Amount": 55.095276,
     "Received Deposit Amount": 1250,
     "Received Exchange Amount": 55.106499,
-    "Exchange Status": "finished"
+    "Exchange Status": "finished",
+    "lucky_number": 50
   }
 ]
